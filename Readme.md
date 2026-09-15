@@ -4,7 +4,7 @@
 
 I'm a **Web Developer** focused on building fast, scalable, and modern web experiences. I work across **frontend development, backend systems, SEO, performance optimization, and web infrastructure**.
 
-Currently, I work as a Web Developer at **Ventrax**, the digital arm of the Agro Ventures Group of Companies, where I develop and maintain corporate websites, web applications, e-commerce platforms, and internal systems.
+Currently, I work as a Web Developer at **Agro Ventures Digital**, the digital arm of the Agro Ventures Group of Companies, where I develop and maintain corporate websites, web applications, e-commerce platforms, and internal systems.
 
 ---
 
