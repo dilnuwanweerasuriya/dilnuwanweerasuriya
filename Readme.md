@@ -52,14 +52,22 @@ Currently, I work as a Web Developer at **Agro Ventures Digital**, the digital a
 ## 🧰 Skills
 
 ```text
-Frontend Development     ████████████████████
-Backend Development      ██████████████████░░
-API Development          ██████████████████░░
-Database Design          ████████████████░░░░
-UI/UX Implementation     ██████████████████░░
-SEO & Optimization       █████████████████░░░
-Cloud & Deployment       ████████████████░░░░
-System Architecture      ███████████████░░░░░
+* Frontend Development
+* Backend Development
+* RESTful API Development
+* Database Design & Management
+* UI/UX Implementation
+* SEO & Web Optimization
+* Cloud & Deployment
+* System Architecture
+* E-Commerce Development
+* Web Performance Optimization
+* Responsive Web Design
+* CMS & Admin Portal Development
+* Payment Gateway Integration
+* Third-Party API Integration
+* Version Control & Git
+* Agile Development
 ```
 
 ---
