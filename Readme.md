@@ -148,18 +148,6 @@ Website - https://ahasanews.lk
 
 ---
 
-### 🍦 The Vanilla Shop
-
-A premium e-commerce platform for a Sri Lankan vanilla brand.
-
-**Stack:** React · Node.js · Express · MongoDB · Tailwind CSS · Cloudflare R2
-
-Features include product variants, inventory management, orders, payment gateway integration, admin management, email notifications, and invoice generation.
-
-Website - https://thevanillashop.lk
-
----
-
 ### 🌱 Bio Foods
 
 A modern corporate website for a food and agriculture brand.
