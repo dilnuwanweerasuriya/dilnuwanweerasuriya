@@ -124,6 +124,18 @@ Working with:
 
 ## 📌 Featured Work
 
+### 🛒 Multi-Outlet POS & Inventory Management System
+
+A comprehensive multi-location Point of Sale (POS) and inventory management system designed to streamline retail, grocery, and cafe operations.
+
+Stack: Next.js · Tailwind CSS · MongoDB · Node.js · Cloudflare R2
+
+Features include multi-outlet management, product and ingredient management, GRN processing, stock batches, recipe and BOM management, sales operations, supplier management, bank and cheque handling, reconciliations, and detailed business reports.
+
+Website - https://multi-pos-lemon.vercel.app
+
+---
+
 ### 📰 News & Media Platform
 
 A multilingual news platform built with modern full-stack technologies.
@@ -131,6 +143,8 @@ A multilingual news platform built with modern full-stack technologies.
 **Stack:** Next.js · Tailwind CSS · MongoDB · Cloudflare R2 · YouTube API
 
 Features include multilingual content, breaking news, video integration, search, archives, and an administration system.
+
+Website - https://ahasanews.lk
 
 ---
 
@@ -142,6 +156,8 @@ A premium e-commerce platform for a Sri Lankan vanilla brand.
 
 Features include product variants, inventory management, orders, payment gateway integration, admin management, email notifications, and invoice generation.
 
+Website - https://thevanillashop.lk
+
 ---
 
 ### 🌱 Bio Foods
@@ -151,6 +167,8 @@ A modern corporate website for a food and agriculture brand.
 **Stack:** React · Tailwind CSS · Cloudflare R2
 
 Focused on performance, responsive design, SEO, brand presentation, and premium visual experiences.
+
+Website - https://biofoodsagro.com
 
 ---
 
